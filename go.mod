@@ -1,3 +1,3 @@
-module SSO
+module protos
 
 go 1.21.2
